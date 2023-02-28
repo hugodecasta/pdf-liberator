@@ -1,0 +1,25 @@
+{
+  "name": "pdf-liberator",
+  "version": "0.1.0",
+  "description": "Liberate PDF from their jail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugodecasta/pdf-liberator.git"
+  },
+  "keywords": [],
+  "author": "Hugo Castaneda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hugodecasta/pdf-liberator/issues"
+  },
+  "homepage": "https://github.com/hugodecasta/pdf-liberator#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.9"
+  }
+}
